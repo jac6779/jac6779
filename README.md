@@ -33,7 +33,7 @@ Machine learning system predicting residential property prices in Brooklyn using
 - Docker container  
 - AWS EC2 + Application Load Balancer  
 
-🔗 **HTML Page with Backend API generating predictions:**
+🔗 **HTML Page with Backend API generating predictions:**  
 https://d1gedfxor1cz4c.cloudfront.net/
 
 🔗 **Live API Docs:**  
@@ -60,7 +60,7 @@ Production-style ML system predicting NYC 311 complaint resolution outcomes.
 - AWS App Runner  
 - Amazon ECR  
 
-🔗 **HTML Page with Backend API generating predictions:**
+🔗 **HTML Page with Backend API generating predictions:**  
 https://d3oxki74u11f6.cloudfront.net
 
 🔗 **Live API Docs:**  
