@@ -14,6 +14,35 @@ I build machine learning systems and deploy them as production APIs using Python
 
 ---
 
+🚲 **Citi Bike Dock Availability Prediction**
+
+Machine learning system predicting **low dock availability (≤10% capacity)** at Citi Bike stations using real-time station data.
+
+**Key Features:**
+
+* Time-series feature engineering using grouped snapshot data
+* Station-level features (capacity, location, proximity to transit)
+* Temporal features (hour of day, weekday patterns)
+
+**Models:**
+
+* Logistic Regression
+* Random Forest
+* XGBoost
+* Neural Network (TensorFlow, experimental)
+
+**Deployment:**
+
+* FastAPI REST API
+* Docker container
+* AWS (S3 + Lambda + SageMaker for retraining pipeline)
+
+🔗 [**GitHub Repo**](https://github.com/jac6779/citi-bike-prediction)
+🔗 [**Live API**]()
+
+
+---
+
 ## ⭐ Featured Projects
 
 ### 🏠 Brooklyn Home Price Prediction API
