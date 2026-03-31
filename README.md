@@ -16,7 +16,7 @@ I build machine learning systems and deploy them as production APIs using Python
 
 ## ⭐ Featured Projects
 
-🚲 **Citi Bike Dock Availability Prediction**
+### 🚲 **Citi Bike Dock Availability Prediction**
 
 Machine learning system predicting **low dock availability (≤10% capacity)** at Citi Bike stations using real-time station data.
 
