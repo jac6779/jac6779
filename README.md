@@ -14,6 +14,8 @@ I build machine learning systems and deploy them as production APIs using Python
 
 ---
 
+## ⭐ Featured Projects
+
 🚲 **Citi Bike Dock Availability Prediction**
 
 Machine learning system predicting **low dock availability (≤10% capacity)** at Citi Bike stations using real-time station data.
@@ -40,10 +42,7 @@ Machine learning system predicting **low dock availability (≤10% capacity)** a
 🔗 [**GitHub Repo**](https://github.com/jac6779/citi-bike-prediction)
 🔗 [**Live API**]()
 
-
 ---
-
-## ⭐ Featured Projects
 
 ### 🏠 Brooklyn Home Price Prediction API
 Machine learning system predicting residential property prices in Brooklyn using NYC open housing sales data.
