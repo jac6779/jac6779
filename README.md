@@ -9,8 +9,7 @@ I build machine learning systems and deploy them as production APIs using Python
 
 - Machine Learning Engineering  
 - Model Deployment  
-- Predictive Modeling  
-- Data Science Portfolio Development  
+- Predictive Modeling   
 
 ---
 
