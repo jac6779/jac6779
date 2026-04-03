@@ -36,7 +36,7 @@ Machine learning system predicting **low dock availability (≤10% capacity)** a
 
 * FastAPI REST API
 * Docker container
-* AWS (S3 + Lambda + SageMaker for retraining pipeline)
+* AWS (S3 + Lambda + App Runner)
 
 🔗 [**GitHub Repo**](https://github.com/jac6779/citi-bike-prediction)  
 
