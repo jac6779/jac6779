@@ -40,7 +40,7 @@ Machine learning system predicting **low dock availability (≤10% capacity)** a
 
 🔗 [**GitHub Repo**](https://github.com/jac6779/citi-bike-prediction)  
 
-🔗 [**Polished HTML frontend powered by a FastAPI backend**](https://hjpkidba7c.us-east-1.awsapprunner.com/docs#)
+🔗 [**Live Docs API**](https://hjpkidba7c.us-east-1.awsapprunner.com/docs#)
 
 ---
 
