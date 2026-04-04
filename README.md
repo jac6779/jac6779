@@ -40,7 +40,7 @@ Machine learning system predicting **low dock availability (≤10% capacity)** a
 
 🔗 [**GitHub Repo**](https://github.com/jac6779/citi-bike-prediction)  
 
-🔗 [**Live API Docs**](https://hjpkidba7c.us-east-1.awsapprunner.com/docs#)
+🔗 [**Polished HTML frontend powered by a FastAPI backend**](https://hjpkidba7c.us-east-1.awsapprunner.com/docs#)
 
 ---
 
@@ -65,7 +65,7 @@ Machine learning system predicting residential property prices in Brooklyn using
 
 🔗 [**Live API Docs**](http://brooklyn-home-price-alb-1717097516.us-east-1.elb.amazonaws.com/docs#) 
 
-🔗 [**HTML Page with Backend API generating predictions**](
+🔗 [**Polished HTML frontend powered by a FastAPI backend**](
 https://d1gedfxor1cz4c.cloudfront.net/)
 
 ---
@@ -90,7 +90,7 @@ Production-style ML system predicting NYC 311 complaint resolution outcomes.
 
 🔗 [**Live API Docs**](https://dyypyhmjdv.us-east-1.awsapprunner.com/docs)  
 
-🔗 [**HTML Page with Backend API generating predictions**](https://d3oxki74u11f6.cloudfront.net)  
+🔗 [**Polished HTML frontend powered by a FastAPI backend**](https://d3oxki74u11f6.cloudfront.net)  
 
 ---
 
