@@ -15,32 +15,32 @@ I build machine learning systems and deploy them as production APIs using Python
 
 ## ⭐ Featured Projects
 
-### 🚲 **Citi Bike Dock Availability Prediction**
+🚲 **Citi Bike Availability Prediction Pipeline**
 
-Machine learning system predicting **low dock availability (≤10% capacity)** at Citi Bike stations using real-time station data.
+End-to-end machine learning pipeline predicting **low dock availability (≤10% capacity)** at Citi Bike stations using real-time station data, with **scheduled ingestion, weekly retraining, and AWS deployment**.
 
 **Key Features:**
 
-* Time-series feature engineering using grouped snapshot data
-* Station-level features (capacity, location, proximity to transit)
-* Temporal features (hour of day, weekday patterns)
+- Time-series feature engineering using grouped station snapshot data  
+- Station-level features including capacity, location, and transit proximity  
+- Temporal features including hour-of-day and weekday usage patterns  
+- Automated weekly retraining workflow using fresh operational data  
 
 **Models:**
 
-* Logistic Regression
-* Random Forest
-* XGBoost
-* Neural Network (TensorFlow, experimental)
+- Logistic Regression  
+- Random Forest  
+- XGBoost  
+- Neural Network (TensorFlow, experimental)  
 
 **Deployment:**
 
-* FastAPI REST API
-* Docker container
-* AWS (S3 + Lambda + App Runner)
+- FastAPI REST API  
+- Docker container  
+- AWS (S3, Lambda, EventBridge, CodeBuild, ECR, App Runner)  
 
-🔗 [**GitHub Repo**](https://github.com/jac6779/citi-bike-prediction)  
-
-🔗 [**Live Docs API**](https://hjpkidba7c.us-east-1.awsapprunner.com/docs#)
+🔗 [GitHub Repo](https://github.com/jac6779/citi-bike-prediction)  
+🔗 [Live FastAPI Docs](https://er8i8uv8hc.us-east-1.awsapprunner.com/docs#/default/predict_predict_post)
 
 ---
 
