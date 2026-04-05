@@ -64,7 +64,7 @@ Machine learning system predicting residential property prices in Brooklyn using
 
 🔗 [**GitHub Repo**](https://github.com/jac6779/brooklyn-home-price-api)  
 
-🔗 [**Live API Docs**](http://brooklyn-home-price-alb-1717097516.us-east-1.elb.amazonaws.com/docs#) 
+🔗 [**Live FastAPI Docs**](http://brooklyn-home-price-alb-1717097516.us-east-1.elb.amazonaws.com/docs#) 
 
 🔗 [**Polished HTML frontend powered by a FastAPI backend**](
 https://d1gedfxor1cz4c.cloudfront.net/)
@@ -89,7 +89,7 @@ Production-style ML system predicting NYC 311 complaint resolution outcomes.
 
 🔗 [**GitHub Repo**](https://github.com/jac6779/nyc-311-ml-api)  
 
-🔗 [**Live API Docs**](https://dyypyhmjdv.us-east-1.awsapprunner.com/docs)  
+🔗 [**Live FastAPI Docs**](https://dyypyhmjdv.us-east-1.awsapprunner.com/docs)  
 
 🔗 [**Polished HTML frontend powered by a FastAPI backend**](https://d3oxki74u11f6.cloudfront.net)  
 
