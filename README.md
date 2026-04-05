@@ -39,9 +39,9 @@ End-to-end machine learning pipeline predicting **low dock availability (≤10% 
 - Docker container  
 - AWS (S3, Lambda, EventBridge, CodeBuild, ECR, App Runner)  
 
-🔗 [GitHub Repo](https://github.com/jac6779/citi-bike-prediction)  
+🔗 [**GitHub Repo**](https://github.com/jac6779/citi-bike-prediction)  
 
-🔗 [Live FastAPI Docs](https://er8i8uv8hc.us-east-1.awsapprunner.com/docs#/default/predict_predict_post)
+🔗 [**Live FastAPI Docs**](https://er8i8uv8hc.us-east-1.awsapprunner.com/docs#/default/predict_predict_post)
 
 ---
 
