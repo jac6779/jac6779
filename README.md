@@ -119,15 +119,15 @@ https://public.tableau.com/app/profile/justin.cox1489/viz/MarketingCampaignPerfo
 
 ## 🧠 Skills
 
-- Python  
-- Machine Learning  
-- FastAPI  
-- Docker  
-- AWS (ECR, App Runner, EC2, IAM)  
-- SQL  
-- Scikit-Learn  
-- XGBoost  
-- TensorFlow  
+- Python
+- Machine Learning
+- FastAPI
+- Docker
+- AWS (S3, Lambda, EventBridge, Athena, ECR, App Runner, EC2, IAM, SageMaker, ECS)
+- SQL
+- Scikit-learn
+- XGBoost
+- TensorFlow
 
 ---
 
