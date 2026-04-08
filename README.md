@@ -15,7 +15,7 @@ I build machine learning systems and deploy them as production APIs using Python
 
 ## ⭐ Featured Projects
 
-🚲 **Citi Bike Availability Prediction Pipeline**
+### 🚲 **Citi Bike Availability Prediction Pipeline**
 
 End-to-end machine learning pipeline predicting **low dock availability (≤10% capacity)** at Citi Bike stations using real-time station data, with **scheduled ingestion, weekly retraining, and AWS deployment**.
 
