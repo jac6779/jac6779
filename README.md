@@ -113,7 +113,7 @@ This project presents an interactive Tableau dashboard designed to analyze marke
 - Marketing Analytics
 
 🔗 **Live Dashboard**  
-https://public.tableau.com/app/profile/justin.cox1489/viz/MarketingCampaignPerformanceOverviewDashboard/Dashboard  
+https://public.tableau.com/app/profile/justin.cox1489/viz/MarketingCampaignPerformanceOverview/Dashboard  
 
 ---
 
