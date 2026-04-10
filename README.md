@@ -46,28 +46,33 @@ End-to-end machine learning pipeline predicting **low dock availability (≤10% 
 ---
 
 ### 🏠 Brooklyn Home Price Prediction API
-Machine learning system predicting residential property prices in Brooklyn using NYC open housing sales data.
+End-to-end machine learning system for predicting Brooklyn residential property prices using NYC open housing sales data, deployed as a production-ready API with LLM-powered natural language input.
 
 **Key Features:**
-- Geospatial features (nearest subway distance)
-- Building class encoding
-- Property characteristics
+- Geospatial feature engineering (KD-tree nearest subway distance, proximity indicators)
+- Log-transformed target + engineered property features for price stability
+- Robust preprocessing pipeline with categorical encoding + feature scaling
+- Structured input pipeline for both programmatic and natural language queries
 
 **Models:**
-- XGBoost  
-- ElasticNet  
+- XGBoost (primary production model)
+- ElasticNet (regularized baseline for interpretability)
+- OLS regression (statistical validation & feature significance)
 
 **Deployment:**
-- FastAPI REST API  
-- Docker container  
-- AWS EC2 + Application Load Balancer  
+- FastAPI REST API with validated input schema
+- LLM integration via OpenAI API for natural language → structured prediction inputs
+- Dockerized service deployed on AWS EC2 behind an Application Load Balancer
+- Interactive Swagger /docs endpoint for real-time inference
+
+**Highlights:**
+- Supports both structured JSON inputs and user-friendly prompt-based predictions
+- Designed as a production-style ML service with clear separation of training, preprocessing, and inference pipelines
+- Emphasizes interpretable metrics (MAE) aligned with real estate use cases
 
 🔗 [**GitHub Repo**](https://github.com/jac6779/brooklyn-home-price-api)  
 
-🔗 [**Live FastAPI Docs**](http://brooklyn-home-price-alb-1717097516.us-east-1.elb.amazonaws.com/docs#) 
-
-🔗 [**Polished HTML frontend powered by a FastAPI backend**](
-https://d1gedfxor1cz4c.cloudfront.net/)
+🔗 [**Live FastAPI Docs**](https://zv8bfybrkn.us-east-1.awsapprunner.com/docs#/) 
 
 ---
 
