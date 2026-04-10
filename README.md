@@ -70,7 +70,7 @@ End-to-end machine learning system for predicting Brooklyn residential property 
 - Designed as a production-style ML service with clear separation of training, preprocessing, and inference pipelines
 - Emphasizes interpretable metrics (MAE) aligned with real estate use cases
 
-🔗 [**GitHub Repo**](https://github.com/jac6779/brooklyn-home-price-api)  
+🔗 [**GitHub Repo**](https://github.com/jac6779/brooklyn-home-sales-llm)  
 
 🔗 [**Live FastAPI Docs**](https://zv8bfybrkn.us-east-1.awsapprunner.com/docs#/) 
 
