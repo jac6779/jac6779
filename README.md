@@ -100,7 +100,7 @@ Production-style ML system predicting NYC 311 complaint resolution outcomes.
 
 ---
 
-### 📊 Marketing Performance Dashboard
+### 📊 Marketing Campaign Performance Dashboard
 
 **Overview**  
 This project presents an interactive Tableau dashboard designed to analyze marketing performance across campaigns, channels, and audience segments. It enables quick KPI monitoring and supports data-driven decision-making.
