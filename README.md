@@ -15,7 +15,7 @@ I build machine learning systems and deploy them as production APIs using Python
 
 ## ⭐ Featured Projects
 
-### 🚲 **Citi Bike Availability Prediction Pipeline**
+### 🚲 **Citi Bike Availability Prediction Model & Pipeline**
 
 End-to-end machine learning pipeline predicting **low dock availability (≤10% capacity)** at Citi Bike stations using real-time station data, with **scheduled ingestion, weekly retraining, and AWS deployment**.
 
@@ -45,7 +45,7 @@ End-to-end machine learning pipeline predicting **low dock availability (≤10% 
 
 ---
 
-### 🏠 Brooklyn Home Price Prediction API
+### 🏠 Brooklyn Home Price Prediction Model
 End-to-end machine learning system for predicting Brooklyn residential property prices using NYC open housing sales data, deployed as a production-ready API with LLM-powered natural language input.
 
 **Key Features:**
@@ -76,7 +76,7 @@ End-to-end machine learning system for predicting Brooklyn residential property 
 
 ---
 
-### 🏙 NYC 311 Service Request Prediction API
+### 🏙 NYC 311 Service Request Prediction Model
 Production-style ML system predicting NYC 311 complaint resolution outcomes.
 
 **Key Features:**
@@ -100,7 +100,7 @@ Production-style ML system predicting NYC 311 complaint resolution outcomes.
 
 ---
 
-### 📊 Marketing Campaign Performance Dashboard
+### 📊 Marketing Campaign Performance Dashboard on Tableau
 
 **Overview**  
 This project presents an interactive Tableau dashboard designed to analyze marketing performance across campaigns, channels, and audience segments. It enables quick KPI monitoring and supports data-driven decision-making.
