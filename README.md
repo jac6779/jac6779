@@ -50,25 +50,25 @@ End-to-end machine learning system for predicting Brooklyn residential property 
 
 **Key Features:**
 - Geospatial feature engineering (KD-tree nearest subway distance, proximity indicators)
-- Log-transformed target + engineered property features for price stability
-- Robust preprocessing pipeline with categorical encoding + feature scaling
-- Structured input pipeline for both programmatic and natural language queries
+- Log-transformed target and engineered property features for price stability.
+- Robust preprocessing pipeline with categorical encoding and feature scaling
+- Structured input pipeline for both programmatic and natural language. queries
 
 **Models:**
 - XGBoost (primary production model)
 - ElasticNet (regularized baseline for interpretability)
-- OLS regression (statistical validation & feature significance)
+- OLS Regression (statistical validation and feature significance)
 
 **Deployment:**
-- FastAPI REST API with validated input schema
-- LLM integration via OpenAI API for natural language → structured prediction inputs
-- Dockerized service deployed on AWS EC2 behind an Application Load Balancer
-- Interactive Swagger /docs endpoint for real-time inference
+- FastAPI REST API with validated input schema.
+- LLM integration via OpenAI API for natural language, generating structured prediction inputs.
+- Dockerized service deployed on AWS ECR behind an Application Load Balancer.
+- Interactive Swagger /docs endpoint for real-time inference.
 
 **Highlights:**
-- Supports both structured JSON inputs and user-friendly prompt-based predictions
-- Designed as a production-style ML service with clear separation of training, preprocessing, and inference pipelines
-- Emphasizes interpretable metrics (MAE) aligned with real estate use cases
+- Supports both structured JSON inputs and user-friendly prompt-based predictions.
+- Designed as a production-style ML service with clear separation of training, preprocessing, and inference pipelines.
+- Emphasizes interpretable metrics (MAE) aligned with real estate use cases.
 
 🔗 [**GitHub Repo**](https://github.com/jac6779/brooklyn-home-sales-llm)  
 
@@ -128,7 +128,7 @@ https://public.tableau.com/app/profile/justin.cox1489/viz/MarketingCampaignPerfo
 - Machine Learning
 - FastAPI
 - Docker
-- AWS (S3, Lambda, EventBridge, Athena, ECR, App Runner, EC2, IAM, SageMaker, ECS)
+- AWS (S3, Lambda, EventBridge, ECR, App Runner, IAM, CodeBuild, CodeCommit, Secrets Manager. CloudWatch)
 - SQL
 - Scikit-learn
 - XGBoost
