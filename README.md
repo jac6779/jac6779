@@ -100,6 +100,35 @@ Production-style ML system predicting NYC 311 complaint resolution outcomes.
 
 ---
 
+### 🛒 Grocery Household Customer Segmentation
+
+Customer segmentation project using the dunnhumby Complete Journey dataset to identify distinct grocery household shopping behaviors through feature engineering, clustering, and demographic profiling.
+
+Key Features:
+
+* Aggregated 2.5M+ grocery transactions into household-level behavioral features
+* Behavioral features covering shopping frequency, recency, basket size, and basket value
+* Log transformation and scaling of skewed customer behavior features
+* Post-model demographic profiling to interpret and compare customer segments
+
+Models:
+
+* KMeans
+* Agglomerative Clustering
+* Gaussian Mixture Model (GMM)
+* DBSCAN
+
+Evaluation:
+
+* Silhouette Score
+* Davies-Bouldin Score
+* Calinski-Harabasz Score
+* Final model selection based on both statistical performance and business usefulness of the resulting segments
+
+🔗 [GitHub Repo](https://github.com/jac6779/dh-segmentation)
+
+---
+
 ### 📊 Marketing Campaign Performance Dashboard on Tableau
 
 **Overview**  
