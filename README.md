@@ -155,9 +155,10 @@ https://public.tableau.com/app/profile/justin.cox1489/viz/MarketingCampaignPerfo
 
 - Python
 - Machine Learning
+- Customer Segmentation
 - FastAPI
 - Docker
-- AWS (S3, Lambda, EventBridge, ECR, App Runner, IAM, CodeBuild, CodeCommit, Secrets Manager. CloudWatch)
+- Amazon Web Services (AWS)
 - SQL
 - Scikit-learn
 - XGBoost
