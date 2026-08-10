@@ -100,7 +100,7 @@ Production-style ML system predicting NYC 311 complaint resolution outcomes.
 
 ---
 
-### 🛒 Grocery Household Customer Segmentation
+### 🛒 Household Grocery Shopping Customer Segmentation
 
 Customer segmentation project using the dunnhumby Complete Journey dataset to identify distinct grocery household shopping behaviors through feature engineering, clustering, and demographic profiling.
 
