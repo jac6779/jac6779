@@ -1,4 +1,4 @@
-# Justin Cox
+# Justin C
 Machine Learning Engineer | Data Scientist
 
 I build machine learning systems and deploy them as production APIs using Python and AWS.
@@ -126,6 +126,8 @@ Evaluation:
 * Final model selection based on both statistical performance and business usefulness of the resulting segments
 
 🔗 [GitHub Repo](https://github.com/jac6779/dh-segmentation)
+
+🔗 [**Live FastAPI Docs**](https://sv25kvhyjw.us-east-1.awsapprunner.com/docs#)
 
 ---
 
