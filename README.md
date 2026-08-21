@@ -1,4 +1,4 @@
-# Justin C
+# Justin C.
 Machine Learning Engineer | Data Scientist
 
 I build machine learning systems and deploy them as production APIs using Python and AWS.
